@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogAWSS3Demo", "BlogAWSS3Demo.csproj", "{DD0F3A7A-50D1-4E06-845B-730042165189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD0F3A7A-50D1-4E06-845B-730042165189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD0F3A7A-50D1-4E06-845B-730042165189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD0F3A7A-50D1-4E06-845B-730042165189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD0F3A7A-50D1-4E06-845B-730042165189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D5AE84E-DE1C-45CC-9627-8CE054A0419F}
+	EndGlobalSection
+EndGlobal
